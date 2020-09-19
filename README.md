@@ -16,4 +16,4 @@ The individual ingredients were cleaned and embedded using TensorFlow
 The ResNet-50 CNN model was used for the image embeddings
 
 # License
-https://github.com/facebookresearch/InferSent
+[MIT](License)
