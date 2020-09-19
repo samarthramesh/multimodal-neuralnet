@@ -15,5 +15,7 @@ The individual ingredients were cleaned and embedded using TensorFlow
 # Image Side
 The ResNet-50 CNN model was used for the image embeddings
 
+# Contributors
+Ananya Gupta, Raghav Sriram, Samarth Ramesh, Samyak Jain
 # License
 [MIT](License)
