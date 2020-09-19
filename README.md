@@ -1,5 +1,5 @@
 # Multimodal Neural Network
-Multimodal modal recipe retrieval system for text and images
+Multimodal modal recipe retrieval system built using PyTorch for text (instructions and ingredients) and images
 
 
 # Dataset
