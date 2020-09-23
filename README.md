@@ -12,7 +12,7 @@ The [Infersent](https://github.com/facebookresearch/InferSent) sentence embeddin
 ## [Ingredient Embeddings](https://github.com/sriram-raghav/multimodal-neuralnet/blob/master/Text-side/IngredientsEmbedding.ipynb)
 The individual ingredients were cleaned and embedded using TensorFlow
 
-# Image Side(https://github.com/sriram-raghav/multimodal-neuralnet/blob/master/Image-side/Image_Embeddings.ipynb)
+# Image Side
 The ResNet-50 CNN model was used for the [image embeddings](https://github.com/sriram-raghav/multimodal-neuralnet/blob/master/Image-side/Image_Embeddings.ipynb)
 
 # [Model](https://github.com/sriram-raghav/multimodal-neuralnet/blob/master/model.ipynb)
