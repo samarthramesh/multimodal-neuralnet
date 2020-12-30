@@ -1,9 +1,8 @@
 # Multimodal Neural Network
-Multimodal modal recipe retrieval system built using PyTorch for text (instructions and ingredients) and images
-
+Multimodal recipe retrieval system built using PyTorch for text (instructions and ingredients) and images
 
 # Dataset
-Utilized the MIT Recipe 1M+ dataset for recipe information
+Utilized the MIT Recipe 1M dataset for recipe information
 
 # Text Side
 ## [Instruction Embeddings](https://github.com/sriram-raghav/multimodal-neuralnet/blob/master/Text-side/Instructions_embeddings.ipynb)
